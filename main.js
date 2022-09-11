@@ -21,4 +21,5 @@ import { subscribeToHellfireClube } from "hellfire-clube.js"
             txtEmail.value = ''
             txtLevel.value = ''
             txtCharacter.value = ''
+           
     })
